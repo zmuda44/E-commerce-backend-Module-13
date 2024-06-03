@@ -1,4 +1,4 @@
-# Generate logo app
+# E-commerce backend
 
   ## License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [MIT License](https://opensource.org/licenses/MIT)
 
